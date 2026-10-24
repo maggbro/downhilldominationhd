@@ -1,4 +1,4 @@
-# Downhill Domination HD PACK
+# Downhill Domination Texturas MultiRegión
 Paquete de texturas HD para Downhill Domination NTSC, PAL, NTSC-J
 ## Visual Comparisons
 
