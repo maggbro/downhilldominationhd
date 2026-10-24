@@ -1,20 +1,16 @@
-# Downhill Domination HD Texture Project
+<h2 align="center">Downhill Domination HD Pack</h2>
 
-Redefine el aspecto visual de **Downhill Domination** en PCSX2 o ARMSX2 con paquetes de texturas HD específicos para cada región: **NTSC-U (Norteamérica), PAL (Europa/Brasil/Australia) y NTSC-J (Japón)**.
+Redefine el aspecto visual de **Downhill Domination** en PCSX2 o ARMSX2 con paquetes de texturas HD específicos para cada región: 
 
-Cada paquete fue preparado a partir de las texturas extraídas de su respectiva versión del juego, respetando las diferencias regionales.
+                              NTSC-U (Norteamérica), PAL (Europa/Brasil/Australia) y NTSC-J (Japón)
 
-## Comparación visual
 
-### Lobby
+<h2 align="center">Comparación visual</h2>
 
-![Lobby comparison](images/TexturasMenu.png)
+![Menu](images/TexturasMenu.png)
+![Game](images/TexturasGame.png)
 
-### En juego
-
-*Imagen comparativa original durante el gameplay, con detalle ampliado.*
-
-## Contenido del proyecto
+<h2 align="center">Contenido del proyecto</h2>
 
 Las texturas incluidas abarcan los siguientes modos, escenarios y elementos del juego.
 
@@ -52,7 +48,7 @@ Las texturas incluidas abarcan los siguientes modos, escenarios y elementos del 
 - Todas las bicis por default y sus miniaturas
 - Piezas intercambiables: Tires, Frames y Forks, incluyendo sus miniaturas
 
-## Proceso de escalado
+<h2 align="center">Proceso de escalado</h2>
 
 Las texturas fueron escaladas a **4× su resolución original mediante Real-ESRGAN**, incluyendo:
 
@@ -60,19 +56,17 @@ Las texturas fueron escaladas a **4× su resolución original mediante Real-ESRG
 - Mipmaps
 - LODs de personajes, mapas y elementos misceláneos
 
-**Herramienta de IA:** [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN).
-
-## Versiones regionales
+<h2 align="center">Versiones regionales</h2>
 
 Cada región cuenta con su propio paquete de texturas extraídas. No se trata simplemente de carpetas renombradas para coincidir con otro ELF.
 
-Aunque utilizar el ELF de otra región y renombrar la carpeta de texturas puede funcionar, aproximadamente un **25–30 % de las texturas podría quedar sin utilizar**. Los paquetes regionales independientes buscan respetar las diferencias de cada versión, incluidos personajes, patrocinios —algunos eliminados según la región— e idiomas.
+Aunque utilizar el ELF de otra región y renombrar la carpeta de texturas puede funcionar, aproximadamente un **25–30 % de las texturas podría quedar sin utilizar**. Los paquetes regionales independientes buscan respetar las diferencias de cada versión, incluidos personajes, patrocinios (algunos eliminados según la región) e idiomas.
 
-## Descargas
+<h2 align="center">Descargas</h2>
 
 Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Releases o descargar el archivo completo desde Google Drive.
 
-### NTSC-U — Norteamérica
+### Versión Norteamérica
 
 **GitHub Releases**
 
@@ -83,7 +77,7 @@ Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Rel
 
 - [Descargar paquete completo](https://drive.google.com/file/d/10ugzoDnOqESRzYnxwC5cBfB18IVvYsig/view?usp=sharing)
 
-### PAL — Europa / Brasil / Australia
+### Versión Europea
 
 **GitHub Releases**
 
@@ -94,7 +88,7 @@ Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Rel
 
 - [Descargar paquete completo](https://drive.google.com/file/d/1uOwCwGFccEhrC2vKjARSoXo4Vm05myVx/view?usp=sharing)
 
-### NTSC-J — Japón
+### Versión Japonesa
 
 **GitHub Releases**
 
