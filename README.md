@@ -4,7 +4,7 @@ Paquete de texturas HD para Downhill Domination NTSC, PAL, NTSC-J
 
 ### Lobby
 
-![Lobby comparison](images/lobby-comparison.jpg)
+![Lobby comparison](images/DownhillPS2 Texturas Menu.png)
 
 ### In-game
 
