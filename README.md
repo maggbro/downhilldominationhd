@@ -75,7 +75,7 @@ Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Rel
 
 **Google Drive**
 
-- [Descargar paquete completo](https://drive.google.com/file/d/10ugzoDnOqESRzYnxwC5cBfB18IVvYsig/view?usp=sharing)
+- [1Link Gdrive](https://drive.google.com/file/d/10ugzoDnOqESRzYnxwC5cBfB18IVvYsig/view?usp=sharing)
 
 ### Versión Europea
 
@@ -86,7 +86,7 @@ Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Rel
 
 **Google Drive**
 
-- [Descargar paquete completo](https://drive.google.com/file/d/1uOwCwGFccEhrC2vKjARSoXo4Vm05myVx/view?usp=sharing)
+- [1Link Gdrive](https://drive.google.com/file/d/1uOwCwGFccEhrC2vKjARSoXo4Vm05myVx/view?usp=sharing)
 
 ### Versión Japonesa
 
@@ -97,7 +97,7 @@ Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Rel
 
 **Google Drive**
 
-- [Descargar paquete completo](https://drive.google.com/file/d/1dv4PtyPkUfQdqDvkNGtaCpX1nPSTjO8w/view?usp=sharing)
+- [1Link Gdrive](https://drive.google.com/file/d/1dv4PtyPkUfQdqDvkNGtaCpX1nPSTjO8w/view?usp=sharing)
 
 > **Importante:** Si descargas desde GitHub Releases, necesitas ambas partes de la región seleccionada para reconstruir el archivo completo. No mezcles partes de regiones diferentes.
 
