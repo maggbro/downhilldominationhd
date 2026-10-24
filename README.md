@@ -8,7 +8,7 @@ Cada paquete fue preparado a partir de las texturas extraídas de su respectiva 
 
 ### Lobby
 
-*Imagen comparativa original del Lobby.*
+![Lobby comparison](images/TexturasMenu.png)
 
 ### En juego
 
