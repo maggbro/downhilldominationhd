@@ -2,7 +2,7 @@
 
 Redefine el aspecto visual de **Downhill Domination** en PCSX2 o ARMSX2 con paquetes de texturas HD específicos para cada región: 
 
-                              NTSC-U (Norteamérica), PAL (Europa/Brasil/Australia) y NTSC-J (Japón)
+                                NTSC-U (Norteamérica), PAL (Europa/Brasil/Australia) y NTSC-J (Japón)
 
 
 <h2 align="center">Comparación visual</h2>
@@ -12,7 +12,7 @@ Redefine el aspecto visual de **Downhill Domination** en PCSX2 o ARMSX2 con paqu
 
 <h2 align="center">Contenido del proyecto</h2>
 
-Las texturas incluidas abarcan los siguientes modos, escenarios y elementos del juego.
+Las texturas abarcan los siguientes escenarios y elementos del juego.
 
 ### Modos de juego
 
@@ -20,41 +20,23 @@ Las texturas incluidas abarcan los siguientes modos, escenarios y elementos del 
 - Arcade
 - Especializadas
 - Time Trial
-
-### Mini juegos
-
-- SuperJump
-- Moshbowl
+- SuperJump (2-4 jugadores incluido)
+- Moshbowl (2-4 jugadores incluido)
 - Trainning
-
-### Modo 2 jugadores
-
-- Mapas individuales
 - Dual Slalom
-- HUD
-
-### Modo 3 y 4 jugadores
-
-- Mapas individuales
-- HUD
-
-### Bonus
-
-- Camelbak
-- SparkyTricks
 
 ### Bike Shop / Bike Upgrades
 
-- Todas las bicis por default y sus miniaturas
-- Piezas intercambiables: Tires, Frames y Forks, incluyendo sus miniaturas
+- Todas las bicis, animales, arcade (Portadas incluidas)
+- Piezas intercambiables: Tires, Frames y Forks (Portadas incluidas)
+- Camelbak
 
 <h2 align="center">Proceso de escalado</h2>
 
-Las texturas fueron escaladas a **4× su resolución original mediante Real-ESRGAN**, incluyendo:
+Las texturas fueron escaladas a **4× su resolución original con el modelo IA de Real-ESRGAN**, incluyendo:
 
 - Texturas principales
 - Mipmaps
-- LODs de personajes, mapas y elementos misceláneos
 
 <h2 align="center">Versiones regionales</h2>
 
@@ -77,7 +59,7 @@ Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Rel
 
 - [1Link Gdrive](https://drive.google.com/file/d/10ugzoDnOqESRzYnxwC5cBfB18IVvYsig/view?usp=sharing)
 
-### Versión Europea
+### 🇪🇺 Versión Europea 🇪🇺
 
 **GitHub Releases**
 
@@ -103,7 +85,3 @@ Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Rel
 
 Las instrucciones de instalación se encuentran en la publicación de cada versión (*Release*).
 
-## Compatibilidad
-
-- PCSX2
-- ARMSX2
