@@ -5,12 +5,12 @@ Redefine el aspecto visual de **Downhill Domination** en PCSX2 o ARMSX2 con paqu
                                 NTSC-U (Norteamérica), PAL (Europa/Brasil/Australia) y NTSC-J (Japón)
 
 
-<h2 align="center">Comparación visual</h2>
+<h2 align="center">🎮Comparación visual🎮</h2>
 
 ![Menu](images/TexturasMenu.png)
 ![Game](images/TexturasGame.png)
 
-<h2 align="center">Contenido del proyecto</h2>
+<h2 align="center">📦Contenido del proyecto📦</h2>
 
 Las texturas abarcan los siguientes escenarios y elementos del juego.
 
@@ -27,28 +27,27 @@ Las texturas abarcan los siguientes escenarios y elementos del juego.
 
 ### Bike Shop / Bike Upgrades
 
-- Todas las bicis, animales, arcade (Portadas incluidas)
+- Bicis: Por defecto, Desbloqueables y Arcade (Portadas incluidas)
+- Animales (Portadas incluidas según el idioma)
 - Piezas intercambiables: Tires, Frames y Forks (Portadas incluidas)
 - Camelbak
 
-<h2 align="center">Proceso de escalado</h2>
+<h2 align="center">⚙️Proceso de escalado⚙️</h2>
 
 Las texturas fueron escaladas a **4× su resolución original con el modelo IA de Real-ESRGAN**, incluyendo:
 
 - Texturas principales
 - Mipmaps
 
-<h2 align="center">Versiones regionales</h2>
-
 Cada región cuenta con su propio paquete de texturas extraídas. No se trata simplemente de carpetas renombradas para coincidir con otro ELF.
 
 Aunque utilizar el ELF de otra región y renombrar la carpeta de texturas puede funcionar, aproximadamente un **25–30 % de las texturas podría quedar sin utilizar**. Los paquetes regionales independientes buscan respetar las diferencias de cada versión, incluidos personajes, patrocinios (algunos eliminados según la región) e idiomas.
 
-<h2 align="center">Descargas</h2>
+<h2 align="center">⬇Descargas⬇</h2>
 
 Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Releases o descargar el archivo completo desde Google Drive.
 
-### Versión Norteamérica
+### 🇺🇸 Versión Norteamérica
 
 **GitHub Releases**
 
@@ -59,7 +58,7 @@ Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Rel
 
 - [1Link Gdrive](https://drive.google.com/file/d/10ugzoDnOqESRzYnxwC5cBfB18IVvYsig/view?usp=sharing)
 
-### 🇪🇺 Versión Europea 🇪🇺
+### 🇪🇺 Versión Europea
 
 **GitHub Releases**
 
@@ -70,7 +69,7 @@ Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Rel
 
 - [1Link Gdrive](https://drive.google.com/file/d/1uOwCwGFccEhrC2vKjARSoXo4Vm05myVx/view?usp=sharing)
 
-### Versión Japonesa
+### 🇯🇵 Versión Japonesa
 
 **GitHub Releases**
 
