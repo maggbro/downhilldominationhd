@@ -25,6 +25,7 @@ Las texturas abarcan los siguientes escenarios y elementos del juego.
 - Moshbowl (2-4 jugadores incluido)
 - Trainning
 - Dual Slalom
+- Individuales (24 niveles, 1-2 jugadores | 5 niveles, 3-4 jugadores)
 
 ### Bike Shop / Bike Upgrades
 
@@ -40,9 +41,9 @@ Las texturas fueron escaladas a **4× su resolución original con el modelo IA d
 - Texturas principales
 - Mipmaps
 
-Cada región cuenta con su propio paquete de texturas extraídas. No se trata simplemente de carpetas renombradas para coincidir con otro ELF.
+Cada textura fue extraída de su región de forma independiente, no se trata simplemente de carpetas renombradas para coincidir un número de serie de X región con la su preferencia.
 
-Aunque utilizar el ELF de otra región y renombrar la carpeta de texturas puede funcionar, aproximadamente un **25–30 % de las texturas podría quedar sin utilizar**. Los paquetes regionales independientes buscan respetar las diferencias de cada versión, incluidos personajes, patrocinios (algunos eliminados según la región) e idiomas.
+Aunque renombrar la carpeta de texturas (ej: PAL a NTSC haciendo coincidir el numero de serie regional) puede funcionar, aproximadamente un **25–30 % de las texturas podría quedar sin utilizar**. Al extraer las texturas de forma independiente respetamos las diferencias de cada versión, incluidos personajes, patrocinios (algunos eliminados según la región) e idiomas.
 
 <h2 align="center">⬇Descargas⬇</h2>
 
