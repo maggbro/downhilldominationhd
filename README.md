@@ -41,7 +41,7 @@ Las texturas fueron escaladas a **4× su resolución original con el modelo IA d
 - Texturas principales
 - Mipmaps
 
-Cada textura fue extraída de su región de forma independiente, no se trata simplemente de carpetas renombradas para coincidir un número de serie de X región con la su preferencia.
+Cada textura fue extraída de su región de forma independiente, no se trata simplemente de carpetas renombradas para coincidir un número de serie de X región con la de su preferencia.
 
 Aunque renombrar la carpeta de texturas (ej: PAL a NTSC haciendo coincidir el numero de serie regional) puede funcionar, aproximadamente un **25–30 % de las texturas podría quedar sin utilizar**. Al extraer las texturas de forma independiente respetamos las diferencias de cada versión, incluidos personajes, patrocinios (algunos eliminados según la región) e idiomas.
 
