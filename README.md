@@ -1,4 +1,4 @@
-<h2 align="center">Downhill Domination HD Pack</h2>
+<h2 align="center">DOWNHILL DOMINATION HD PACK</h2>
 
 Redefine el aspecto visual de **Downhill Domination** en PCSX2 o ARMSX2 con paquetes de texturas HD específicos para cada región: 
 
@@ -27,7 +27,7 @@ Las texturas abarcan los siguientes escenarios y elementos del juego.
 
 ### Bike Shop / Bike Upgrades
 
-- Bicis: Por defecto, Desbloqueables y Arcade (Portadas incluidas)
+- Bicis: Stock, Arcade y Desbloqueables (Portadas incluidas)
 - Animales (Portadas incluidas según el idioma)
 - Piezas intercambiables: Tires, Frames y Forks (Portadas incluidas)
 - Camelbak
