@@ -8,8 +8,8 @@ Redefine el aspecto visual de **Downhill Domination** en PCSX2 o ARMSX2 con paqu
 <h2 align="center">🎮Comparación visual🎮</h2>
 
 ![Menu](images/Title.png)
-![Menu](images/TexturasMenu.png)
 ![Game](images/TexturasGame.png)
+![Menu](images/TexturasMenu.png)
 
 <h2 align="center">📦Contenido del proyecto📦</h2>
 
