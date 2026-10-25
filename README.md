@@ -49,7 +49,7 @@ Al extraer las texturas de forma independiente respetamos las diferencias de cad
 
 <h2 align="center">⬇Descargas⬇</h2>
 
-Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Releases o descargar el archivo completo desde Google Drive.
+Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Releases o descargar el archivo en un LINK desde Google Drive.
 
 ### 🇺🇸 Versión Norteamérica
 
