@@ -86,5 +86,4 @@ Cada región ofrece dos opciones: descargar el paquete dividido desde GitHub Rel
 
 > **Importante:** Si descargas desde GitHub Releases, necesitas ambas partes de la región seleccionada para reconstruir el archivo completo. No mezcles partes de regiones diferentes.
 
-Las instrucciones de instalación se encuentran en la publicación de cada versión (*Release*).
-
+Proyecto comunitario no oficial. Downhill Domination es propiedad de sus respectivos titulares. Esta modificación proporciona texturas de reemplazo y no incluye los archivos originales del juego.
